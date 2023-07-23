@@ -13,6 +13,10 @@ export const typography = {
     "15": "4.5rem",
     "16": "5.625rem",
   },
+  fonts: {
+    body: "var(--font-inter)",
+    heading: "var(--font-inter)",
+  },
   fontSizes: {
     text: {
       xs: "0.75rem",
