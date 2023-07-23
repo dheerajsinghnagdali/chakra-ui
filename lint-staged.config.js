@@ -1,3 +1,3 @@
 module.exports = {
-  "*.{ts,tsx,js,jsx,json}": "prettier -w",
+  "*.{ts,tsx,js,jsx,json}": "prettier --write --ignore-unknown",
 };
