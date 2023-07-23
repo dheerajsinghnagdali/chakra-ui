@@ -1,4 +1,5 @@
-export * from "./blurs";
+export * from "./blur";
 export * from "./colors";
 export * from "./shadows";
 export * from "./typography";
+export * from "./breakpoints";

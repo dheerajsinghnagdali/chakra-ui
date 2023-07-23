@@ -1,4 +1,4 @@
-export const blurs = {
+export const blur = {
   none: 0,
   sm: "4px",
   base: "8px",

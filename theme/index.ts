@@ -1,11 +1,12 @@
 import { extendTheme } from "@chakra-ui/react";
 
-import { colors, typography, shadows, blurs } from "./foundations";
+import { colors, typography, shadows, blur, breakpoints } from "./foundations";
 
 const overrides = {
   colors,
   shadows,
-  blurs,
+  blur,
+  breakpoints,
   ...typography,
 };
 
